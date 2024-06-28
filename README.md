@@ -3,3 +3,11 @@
 
 ```bash
 git clone xxxx
+
+git update now
+
+```
+## How to update
+
+
+
